@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hrsmoo
+- 👋 Hi, I’m Haris Iskandar
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
